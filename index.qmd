@@ -1,0 +1,11 @@
+---
+title: "Welcome!"
+---
+
+This is your portfolio site. Start by editing this page and `about.qmd` to make it your own.
+
+## Next Steps
+
+- Edit `about.qmd` with your info
+- Create a project post in `posts/`
+- Push to `main` and your site will auto-deploy
